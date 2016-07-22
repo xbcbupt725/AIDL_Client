@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\workspace\\aidlClient\\src\\com\\example\\aidltest\\IRemoteService.aidl
+ * Original file: D:\\workspace\\AIDL_Client\\src\\com\\example\\aidltest\\IRemoteService.aidl
  */
 package com.example.aidltest;
 // Declare any non-default types here with import statements
